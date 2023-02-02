@@ -1,5 +1,0 @@
-        <dependency>
-            <groupId>org.aspectj</groupId>
-            <artifactId>com.springsource.org.aspectj.weaver</artifactId>
-            <version>1.6.5.RELEASE</version>
-        </dependency>
